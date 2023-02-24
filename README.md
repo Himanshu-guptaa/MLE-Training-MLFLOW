@@ -1,2 +1,1 @@
-# MLE-Training-MLFLOW
-Assignment 2.2
+# mle-training-mlflow
